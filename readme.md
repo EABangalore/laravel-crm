@@ -61,6 +61,13 @@
 
 ![invoice](https://user-images.githubusercontent.com/21359377/42409079-7bf015b6-81f2-11e8-9dad-5d5555f3852c.png)
 
+## Foreword
+
+**Please help this project, by commiting new changes**
+
+thank you very much  - **Ejaz Anwar**
+
+
 
 ## Contributing
 
