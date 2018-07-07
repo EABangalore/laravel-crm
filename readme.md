@@ -1,3 +1,36 @@
+## Installation
+
+1. `https://github.com/EABangalore/laravel-crm.git`
+
+
+2.create `database` by name `ebs_shopvox`
+
+3.look for `sql-database` **Folder** inside root of the project, `import ebs_shopvox.sql` file into above created database
+
+4. `cd` into project root **Folder**
+
+5.`> php artisan serve`
+
+6. **Open** http://localhost:8000/
+
+
+## Feature List
+
+      ### Customer Registration
+      
+      ### Job Creation for newly created Customer
+      
+      ### Quotation
+      
+      ### Inline Editable table
+      
+      ### Suppliers
+      
+      ### Proforma Invoice
+      
+      ### Invoice
+     
+
 ## Home Page
 
 ![home-page](https://user-images.githubusercontent.com/21359377/42408782-cb5e93b0-81ee-11e8-825f-e77e783c7e85.png)
