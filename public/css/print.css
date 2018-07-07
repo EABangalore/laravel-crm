@@ -1,0 +1,10 @@
+body, html, #wrapper {
+    width: 100%;
+}
+
+
+@media print {
+      body, html, #wrapper {
+          width: 100%;
+      }
+}
