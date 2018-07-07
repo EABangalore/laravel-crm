@@ -65,6 +65,8 @@
 
 **Please help this project, by commiting new changes**
 
+**Please star it, to promote similar projects**
+
 thank you very much  - **Ejaz Anwar**
 
 
