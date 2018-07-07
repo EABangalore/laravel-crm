@@ -1,6 +1,6 @@
 ## Installation
 
-1. `https://github.com/EABangalore/laravel-crm.git`
+1. `$git clone https://github.com/EABangalore/laravel-crm.git`
 
 
 2.create `database` by name `ebs_shopvox`
