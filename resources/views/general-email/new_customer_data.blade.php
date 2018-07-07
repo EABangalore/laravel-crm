@@ -58,7 +58,7 @@
 
         <div align="center" style="text-align:center">
             <a href="http://openweblife.createsend4.com/t/d-i-ftrgl-l-d/" target="_blank" style="font-size:36px; color:#fff; text-decoration:none; font-family:'calibri', arial, verdana; display:block; margin:20px 0 0;">
-            Enigma Brand Solutions India Pvt Ltd
+            IMAGINARY BRAND (resources -> views / general-email)
         </a>
             <br />
             <br />
