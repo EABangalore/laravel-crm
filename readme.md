@@ -1,42 +1,31 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+## Home Page
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+![home-page](https://user-images.githubusercontent.com/21359377/42408782-cb5e93b0-81ee-11e8-825f-e77e783c7e85.png)
 
-## About Laravel
+## New Job Page
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+![new-job](https://user-images.githubusercontent.com/21359377/42408921-1120cce6-81f0-11e8-8d98-2e7717cbe2dc.png)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Edit table inline (Customers,Jobs table)
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+![edit table](https://user-images.githubusercontent.com/21359377/42408954-938e905a-81f0-11e8-8b94-eef04651d4d4.png)
 
-## Learning Laravel
+## Quoation Creation
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
+![quotation](https://user-images.githubusercontent.com/21359377/42408989-fedf4b60-81f0-11e8-9219-970861b57778.png)
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
+## Create Project Expenses
 
-## Laravel Sponsors
+![project-expenses](https://user-images.githubusercontent.com/21359377/42409015-93912e4a-81f1-11e8-9c2c-cc5acc065719.png)
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](http://patreon.com/taylorotwell):
+## Customers Ready for Quotation
 
-- **[Vehikl](http://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Styde](https://styde.net)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
+![readyforquotation](https://user-images.githubusercontent.com/21359377/42409065-25738b6e-81f2-11e8-9787-a6dfaafb620d.png)
+
+## Invoice Generation
+
+![invoice](https://user-images.githubusercontent.com/21359377/42409079-7bf015b6-81f2-11e8-9dad-5d5555f3852c.png)
+
 
 ## Contributing
 
