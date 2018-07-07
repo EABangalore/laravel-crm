@@ -16,19 +16,19 @@
 
 ## Feature List
 
-## Customer Registration
+### Customer Registration
 
-## Job Creation for newly created Customer
+### Job Creation for newly created Customer
 
-## Quotation
+### Quotation
 
-## Inline Editable table
+### Inline Editable table
 
-## Suppliers
+### Suppliers
 
-## Proforma Invoice
+### Proforma Invoice
 
-## Invoice
+### Invoice
      
 
 ## Home Page
