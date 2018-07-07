@@ -13,6 +13,8 @@
 
 6. **Open** http://localhost:8000/
 
+7. **login** `username`: admin@gmail.com  `password` : admin@123
+
 
 ## Feature List
 
